@@ -1,10 +1,11 @@
 # HSX
+<img width="1774" height="887" alt="160625" src="https://github.com/user-attachments/assets/0d0e62ef-3ebf-4105-b5c9-af8693bbc42e" />
 
 > A lightweight 3D animated web tool that runs entirely on your Android device via Termux.
 > It captures the visitor's **live location** and displays it directly in your terminal — no cloud, no server, no tracking.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Owner-Krishn-ff2b8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Owner-Krishn-ff2b8a?style=for-the-ba" />
   <img src="https://img.shields.io/badge/Platform-Termux-00c6ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Bash%20%2B%20Python-7c8cff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-5ee7ff?style=for-the-badge" />
