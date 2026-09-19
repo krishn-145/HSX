@@ -71,7 +71,7 @@ All captured data is saved to your phone:
 ~/HSX/
 ├── index.html          # The 3D website
 ├── server.py           # Python server with location handler
-├── install.sh          # One-command installer
+├── hsx.sh          # One-command installer
 ├── README.md           # This file
 ├── files/              # Any uploaded files
 ├── location/           # Location logs (JSON, timestamped)
@@ -140,7 +140,7 @@ Open the site, allow location — and the live location box appears instantly.
 Press **Ctrl + C** in Termux.
 
 ### Restart the server
-Just run `bash install.sh` again — it's safe to re-run anytime.
+Just run `bash hsx.sh` again — it's safe to re-run anytime.
 
 ---
 
